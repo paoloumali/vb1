@@ -1,6 +1,6 @@
 Module FirstModule
     Sub Main
-    
+        Console.Writeline(DateTime.Now.DayOfWeek.ToString)
     End Sub
 End Module
 
